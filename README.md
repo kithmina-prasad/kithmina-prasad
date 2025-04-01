@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kithmina Prasad
 
 💻 **BSc(hons) in Computer Networks (Reading)**  
-📡 **System & Cloud Enthusiast & Cybersecurity** 
+📡 **System | Cybersecurity | Cloud Enthusiast** 
 ✨ **Wordpress Designer & Developer**  
 
 ## 🛠 Skills & Technologies:
